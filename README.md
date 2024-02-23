@@ -11,4 +11,4 @@ https://www.onlinegdb.com/
 正常來說應該要  
 安裝Linux作業系統，並下載gfortran來編譯。  
 詳細操作可看這個系列文  
-https://hwdes.eu.org/forum.php?mod=viewthread&tid=339&extra=page%3D1
+https://hwdes.tw/p/sahsxi
